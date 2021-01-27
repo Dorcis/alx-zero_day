@@ -1,1 +1,1 @@
-Learning git
+Learning git is so cool.
