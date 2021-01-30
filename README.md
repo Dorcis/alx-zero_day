@@ -1,1 +1,1 @@
-Learning basic in git, github, emacs and vim
+**Learning basic in git, github, emacs and vim**
